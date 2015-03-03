@@ -5,9 +5,7 @@ Is your Rails application starting to get filled with lots of data? Are your use
 
 In this course we'll learn about how you can integrate Redis, the in-memory key-value store, in your applications to solve common challenges around speed and performance.
 
-Source files for the Tuts+ course: [Redis Applicable to Ruby](https://courses.tutsplus.com/courses/)
-
-**Available on Tuts+ February, 2015 **
+Take this course on Tuts+: [Redis Applicable to Ruby](https://code.tutsplus.com/courses/redis-applicable-to-ruby)
 
 --
 
